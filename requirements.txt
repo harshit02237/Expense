@@ -1,0 +1,7 @@
+qrcode[pil]
+pyvirtualdisplay
+xvfbwrapper
+flask
+qrcode
+pillow
+gunicorn
